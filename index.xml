@@ -19,5 +19,19 @@
 </content>
     </item>
     
+    <item>
+      <title></title>
+      <link>/quartz-dnd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/quartz-dnd/</guid>
+      <description>Quartz DnD this is a page that shows off my DnD built on Quartz site</description>
+      <content>&lt;h1 id=&#34;quartz-dnd&#34;&gt;Quartz DnD&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;this is a page that shows off my DnD built on Quartz
+&lt;a href=&#34;https://wchorski.github.io/quartz-dnd&#34;&gt;site&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
   </channel>
 </rss>
